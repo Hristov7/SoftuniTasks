@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultidimensionalArrays", "MultidimensionalArrays", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DifferenceOfDiagonalsSum", "DifferenceOfDiagonalsSum", "{8CCDBEE0-C8C0-4F6F-B329-1FE221F485DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfDiagonalsSum", "DifferenceOfDiagonalsSum\DifferenceOfDiagonalsSum.csproj", "{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8CCDBEE0-C8C0-4F6F-B329-1FE221F485DC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF} = {8CCDBEE0-C8C0-4F6F-B329-1FE221F485DC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EB9F26-497E-4BDD-A951-C2D6D5F4192F}
+	EndGlobalSection
+EndGlobal
