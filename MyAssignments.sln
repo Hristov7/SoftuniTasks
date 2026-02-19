@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOfEqChars", "CountOfEq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSum", "MaxSum\MaxSum.csproj", "{8F6113DB-8657-4915-AB5D-60A15CC24C38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumbers", "SwapNumbers\SwapNumbers.csproj", "{71AE408A-942D-4B10-AB87-9A45A7FBC695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{8F6113DB-8657-4915-AB5D-60A15CC24C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F6113DB-8657-4915-AB5D-60A15CC24C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F6113DB-8657-4915-AB5D-60A15CC24C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AE408A-942D-4B10-AB87-9A45A7FBC695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AE408A-942D-4B10-AB87-9A45A7FBC695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AE408A-942D-4B10-AB87-9A45A7FBC695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AE408A-942D-4B10-AB87-9A45A7FBC695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
