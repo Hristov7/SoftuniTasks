@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultidimensionalArrays", "MultidimensionalArrays", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minor", "Minor\Minor.csproj", "{7D9BD3E6-63EB-44BC-A29C-EB14CF69BDA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveNastyBunnies", "RadioactiveNastyBunnies\RadioactiveNastyBunnies.csproj", "{C275C5B8-9457-4EC7-8E82-CE1630A69F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceBook", "..\SetsAndDictionaries\ForceBook\ForceBook.csproj", "{CF405DF9-155D-445A-BB4B-61CDBF2A2E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{C275C5B8-9457-4EC7-8E82-CE1630A69F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C275C5B8-9457-4EC7-8E82-CE1630A69F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C275C5B8-9457-4EC7-8E82-CE1630A69F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF405DF9-155D-445A-BB4B-61CDBF2A2E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF405DF9-155D-445A-BB4B-61CDBF2A2E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF405DF9-155D-445A-BB4B-61CDBF2A2E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF405DF9-155D-445A-BB4B-61CDBF2A2E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
