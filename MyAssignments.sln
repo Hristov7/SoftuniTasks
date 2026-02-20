@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveNastyBunnies", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forcebooks", "Forcebooks\Forcebooks.csproj", "{757EEB92-1764-46F1-B5FC-E1EE0FFECCEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Exam Results", "SoftUni Exam Results\SoftUni Exam Results.csproj", "{05F10E31-7A16-4361-8D4B-CE4646E4D86A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{757EEB92-1764-46F1-B5FC-E1EE0FFECCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757EEB92-1764-46F1-B5FC-E1EE0FFECCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757EEB92-1764-46F1-B5FC-E1EE0FFECCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F10E31-7A16-4361-8D4B-CE4646E4D86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F10E31-7A16-4361-8D4B-CE4646E4D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F10E31-7A16-4361-8D4B-CE4646E4D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F10E31-7A16-4361-8D4B-CE4646E4D86A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
