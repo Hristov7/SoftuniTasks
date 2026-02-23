@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rankings", "Rankings\Rankin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlogger", "Vlogger\Vlogger.csproj", "{3E4B0C2D-214B-421A-9394-567DDF930CC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffHospitality", "StaffHospitality\StaffHospitality.csproj", "{0956397B-510B-4E7A-9D6C-EF82703D51CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Que", "Que", "{55EC4787-AA0C-479B-A9A1-C02B6C028479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,10 @@ Global
 		{3E4B0C2D-214B-421A-9394-567DDF930CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E4B0C2D-214B-421A-9394-567DDF930CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E4B0C2D-214B-421A-9394-567DDF930CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0956397B-510B-4E7A-9D6C-EF82703D51CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0956397B-510B-4E7A-9D6C-EF82703D51CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0956397B-510B-4E7A-9D6C-EF82703D51CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0956397B-510B-4E7A-9D6C-EF82703D51CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +88,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8CCDBEE0-C8C0-4F6F-B329-1FE221F485DC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{E7017C3C-3C5E-4F47-A7A9-6165CCAF9CDF} = {8CCDBEE0-C8C0-4F6F-B329-1FE221F485DC}
+		{0956397B-510B-4E7A-9D6C-EF82703D51CA} = {55EC4787-AA0C-479B-A9A1-C02B6C028479}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59EB9F26-497E-4BDD-A951-C2D6D5F4192F}
